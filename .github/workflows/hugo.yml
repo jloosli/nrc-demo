@@ -18,12 +18,13 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-      with: 
-        fetch-depth: 0
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          submodules: true
 
-    # Runs a single command using the runners shell
-    - name: hugo
-      uses: klakegg/actions-hugo@1.0.0
-      with:
-        target: docs
+      # Runs a single command using the runners shell
+      - name: Build and Publish Site
+        uses: chabad360/hugo-gh-pages@master
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
