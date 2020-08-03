@@ -1,0 +1,5 @@
+baseURL = "https://jloosli.github.io/nrc-demo"
+languageCode = "en-us"
+title = "NRC Demo Site"
+publishDir = "docs"
+theme = "ananke"

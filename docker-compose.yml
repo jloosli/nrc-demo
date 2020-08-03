@@ -1,0 +1,15 @@
+version: '3.7'
+
+services:
+  hugo_server:
+    image: klakegg/hugo:0.74.3
+    command: server
+    volumes:
+      - "./nrc-playbook:/src"
+    ports:
+      - "1313:1313"
+
+  build:
+    image: klakegg/hugo:0.74.3
+    volumes:
+      - "./nrc-playbook:/src"
