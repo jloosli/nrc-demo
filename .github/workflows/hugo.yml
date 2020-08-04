@@ -27,4 +27,4 @@ jobs:
       - name: Build and Publish Site
         uses: chabad360/hugo-gh-pages@master
         with:
-          githubToken: ${{ secrets.BUILD_TOKEN }}
+          githubToken: ${{ secrets.BUILD_TOKEN_DOES_NOT_EXIST }}
