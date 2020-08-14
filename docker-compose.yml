@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   hugo_server:
-    image: klakegg/hugo:0.74.3
+    image: klakegg/hugo:ext
     command: server
     volumes:
       - ".:/src"
@@ -10,6 +10,6 @@ services:
       - "1313:1313"
 
   build:
-    image: klakegg/hugo:0.74.3
+    image: klakegg/hugo:ext
     volumes:
       - ".:/src"
