@@ -1,6 +1,0 @@
-[submodule "nrc-playbook/themes/ananke"]
-	path = nrc-playbook/themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "themes/liva-hugo"]
-	path = themes/liva-hugo
-	url = https://github.com/themefisher/liva-hugo.git
