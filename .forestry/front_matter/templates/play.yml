@@ -1,4 +1,85 @@
 ---
 label: Play
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: draft
+  type: boolean
+  label: draft
+- name: show_reading_time
+  type: boolean
+  label: Show Reading Time
+  default: true
+- name: people
+  type: text
+  config:
+    required: false
+  label: People
+  description: Number of people this play is for (e.g "5-10")
+- name: prep_time
+  type: number
+  label: Prep Time
+  description: Number of minutes required for preparation
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: time
+  type: number
+  label: Time
+  description: Time in minutes the play needs to be run
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 15
+- name: difficulty
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Easy
+    - Intermediate
+    - Hard
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Difficulty
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Introduction
+  description: Introduction to play
+- name: materials
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Materials
+  description: Materials needed to run play
