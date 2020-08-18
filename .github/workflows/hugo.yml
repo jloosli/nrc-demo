@@ -25,6 +25,8 @@ jobs:
 
       - name: Create /docs directory
         run: |
+          pwd
+          ls
           rm -rf ./docs
           mkdir ./docs
 
