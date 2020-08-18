@@ -35,6 +35,5 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.BUILD_TOKEN }}
-          siteDir: ./docs
+#          siteDir: ./docs
           branch: master
-          hugoVersion: extended_0.66.0
