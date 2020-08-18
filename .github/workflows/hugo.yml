@@ -23,12 +23,12 @@ jobs:
           fetch-depth: 0
           submodules: true
 
-      - name: Create /docs directory
-        run: |
-          pwd
-          ls
-          rm -rf ./docs
-          mkdir ./docs
+#      - name: Create /docs directory
+#        run: |
+#          pwd
+#          ls
+#          rm -rf ./docs
+#          mkdir ./docs
 
       # Runs a single command using the runners shell
       - name: Build and Publish Site
