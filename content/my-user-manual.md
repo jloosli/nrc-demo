@@ -13,11 +13,11 @@ time = 30
 title = "My User Manual"
 you_should_involve = "Anyone in your integrated project team, including individual contributors and team leads."
 [what_is_next]
-follow-ups = "#### Go Deeper\nConsider adding more prompts to your user manuals:\n* I feel that my purpose here is to\n* I feel energized and engaged when\n* I struggle to focus and stay motivated when\n* To make me feel like I matter, please\n* I'd really prefer if you would be willing to avoid\n* Right now I'm working on\n* When you have positive feedback for me, I'd prefer you\n* When you have something constructive for me, I'd like if you could\n\n##### Make it part of your standup\nIncorporate these as quick get-to-know each other exercises in your standing meetings by spending 5 min at the beginning of each meeting on one topic/question and running through everyone's answer.\n\n##### Gamify It!\nTry a gamification version of this play. Collect and anonymize the team slides from one prompt and have the team try to guess whose slide is whose."
-part_of_these_game_plans = []
+follow-ups = "Keep these archived in your team’s IP SharePoint space so future teammates can get up to speed quickly.\n\nNote in the IP Action Play when this Play was done and who was involved. "
+part_of_these_game_plans = ["Game plan 1", "Game Plan 2"]
 related_plays = []
-samples = ""
-support = ""
+samples = "Here's what the \"communicating\" section of your user manual might look like."
+support = "Link to support e.g. IP working group, other teams who have completed this play and are happy to own it to coach others etc\n\nCould include links to case studies or time-lapse videos of teams doing the activity"
 
 +++
 # Running the play
@@ -64,3 +64,26 @@ Continue to pair up for feedback round-robin style until each person has shared 
 Teams will grow and change so as new team members join your poject or team, have them fill it out and share in you next team meeting!
 
 {{% callout "Virtual Tip" %}} Zoom breakout feature is a great way to run this with large groups, by breaking groups up and switching people in groups. Will require multiple presentations, but people are more likely to talk together and this will breed deeper connections {{% /callout %}}
+
+## Variations
+
+### Go Deeper
+
+Consider adding more prompts to your user manuals:
+
+* I feel that my purpose here is to
+* I feel energized and engaged when
+* I struggle to focus and stay motivated when
+* To make me feel like I matter, please
+* I'd really prefer if you would be willing to avoid
+* Right now I'm working on
+* When you have positive feedback for me, I'd prefer you
+* When you have something constructive for me, I'd like if you could
+
+### Make it part of your standup
+
+Incorporate these as quick get-to-know each other exercises in your standing meetings by spending 5 min at the beginning of each meeting on one topic/question and running through everyone's answer.
+
+### Gamify It!
+
+Try a gamification version of this play. Collect and anonymize the team slides from one prompt and have the team try to guess whose slide is whose.
