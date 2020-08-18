@@ -1,6 +1,7 @@
 +++
 additional_resources = "Additional downloadable material, such as facilitation notes\n\nPre-prepared slides\n"
 before_you_begin = "This play is great for any team, any time. But especially when...\n* You just started on a new team\n* You're kicking off a new project with a team"
+categories = ["Personal Development"]
 description = "Help your teammates understand how best to work with you."
 difficulty = "Easy"
 materials = ["[Slide Template](https://wac-cdn.atlassian.com/misc-assets/keynote/team-playbook/MyUserManual_Template.key)"]
@@ -8,9 +9,16 @@ objective = "No matter what integrated team you’re in, learning how to work to
 people = "1-10"
 prep_time = 45
 show_reading_time = true
+tags = ["Teams", "Cohesiveness"]
 time = 30
 title = "My User Manual"
 you_should_involve = "Anyone in your integrated project team, including individual contributors and team leads."
+[next_steps]
+follow-ups = ""
+part_of_these_game_plans = []
+related_plays = []
+samples = ""
+support = ""
 [what_is_next]
 follow-ups = "Keep these archived in your team’s IP SharePoint space so future teammates can get up to speed quickly.\n\nNote in the IP Action Play when this Play was done and who was involved. "
 part_of_these_game_plans = ["Game plan 1", "Game Plan 2"]
@@ -85,4 +93,4 @@ Incorporate these as quick get-to-know each other exercises in your standing mee
 
 ### Gamify It!
 
-Try a gamification version of this play. Collect and anonymize the team slides from one prompt and have the team try to guess whose slide is whose.
+Try a gamification version of this play. Collect and anonymize the team slides from one prompt and have the team try to guess whose slide is whose. [nrc-programme-policy-english.pdf](/uploads/nrc-programme-policy-english.pdf "nrc-programme-policy-english.pdf")
