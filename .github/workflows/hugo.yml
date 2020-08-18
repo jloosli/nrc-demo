@@ -32,3 +32,4 @@ jobs:
         with:
           githubToken: ${{ secrets.BUILD_TOKEN }}
           siteDir: /github/workspace/docs
+          branch: master
