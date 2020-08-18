@@ -18,6 +18,16 @@ fields:
       format: markdown
   label: Description
   description: Two line description to help people understand what this play is about.
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+  description: Categories this play belongs in
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Tags associated with this play
 - name: objective
   type: textarea
   default: ''
@@ -116,7 +126,7 @@ fields:
   label: Additional Resources
   description: Additional downloadable material, such as <a href="#" title="" target="_blank">facilitation
     notes</a>
-- name: what_is_next
+- name: next_steps
   type: field_group
   config: {}
   fields:
