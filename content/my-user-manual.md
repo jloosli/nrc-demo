@@ -3,7 +3,6 @@ additional_resources = "Additional downloadable material, such as facilitation n
 before_you_begin = "This play is great for any team, any time. But especially when...\n* You just started on a new team\n* You're kicking off a new project with a team"
 description = "Help your teammates understand how best to work with you."
 difficulty = "Easy"
-draft = true
 materials = ["[Slide Template](https://wac-cdn.atlassian.com/misc-assets/keynote/team-playbook/MyUserManual_Template.key)"]
 objective = "No matter what integrated team you’re in, learning how to work together takes time. We all have different communication and collaboration styles.\n\nThis play builds our empathy muscles and honors the fact that we each have our own style of working. You'll find that you’ll deliver IP a lot faster when you can understand how your teammates work best."
 people = "1-10"
@@ -42,7 +41,7 @@ We've provided 10 prompts in the deck, but here's a sample of what you'll find:
 
 {{% callout "Timing" %}} (Number of Participants - 1) x 7 minutes
 
-A good estimate for timing is to take the number of participants, subtract 1, then multiply by 7 to get the number of participants. So if you have 8 participants, it would be (8-1) x 7 = 49 minutes. {{% /callout %}}(Number of Participants - 1) x 7 minutes.
+A good estimate for timing is to take the number of participants, subtract 1, then multiply by 7 to get the number of participants. So if you have 8 participants, it would be (8-1) x 7 = 49 minutes. {{% /callout %}}
 
 Pair up into teams of 2 (with one team of 3 if you have an odd number of team members), and take turns sharing feedback on areas such as:
 
