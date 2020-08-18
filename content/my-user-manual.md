@@ -41,7 +41,7 @@ We've provided 10 prompts in the deck, but here's a sample of what you'll find:
 
 ### Share your user manuals with each other (5 - 60 mins)
 
-{{% callout "Timing" %}} (Number of Participants - 1) x 7 minutes
+{{% callout `Timing` %}} (Number of Participants - 1) x 7 minutes
 
 A good estimate for timing is to take the number of participants, subtract 1, then multiply by 7 to get the number of participants. So if you have 8 participants, it would be (8-1) x 7 = 49 minutes. {{% /callout %}}
 
@@ -56,7 +56,7 @@ Each pair should last \~7 minutes.
 
 Continue to pair up for feedback round-robin style until each person has shared with each of their teammates.
 
-{{% callout "Pro Tip" %}} When new hires start, add this as a task in their 90-day plan. {{% /callout %}}
+{{% callout `Pro Tip` %}} When new hires start, add this as a task in their 90-day plan. {{% /callout %}}
 
 ## Step 3
 
@@ -64,7 +64,7 @@ Continue to pair up for feedback round-robin style until each person has shared 
 
 Teams will grow and change so as new team members join your poject or team, have them fill it out and share in you next team meeting!
 
-{{% callout "Virtual Tip" %}} Zoom breakout feature is a great way to run this with large groups, by breaking groups up and switching people in groups. Will require multiple presentations, but people are more likely to talk together and this will breed deeper connections {{% /callout %}}
+{{% callout `Virtual Tip` %}} Zoom breakout feature is a great way to run this with large groups, by breaking groups up and switching people in groups. Will require multiple presentations, but people are more likely to talk together and this will breed deeper connections {{% /callout %}}
 
 ## Variations
 
