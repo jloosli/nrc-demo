@@ -37,3 +37,4 @@ jobs:
           githubToken: ${{ secrets.BUILD_TOKEN }}
           siteDir: /github/workspace/docs
           branch: master
+          hugoVersion: extended_0.66.0
