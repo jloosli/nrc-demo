@@ -83,3 +83,5 @@ fields:
     max: 
   label: Materials
   description: Materials needed to run play
+pages:
+- content/posts/running-a-workshop.md
