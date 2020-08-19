@@ -1,7 +1,7 @@
 baseURL = "https://jloosli.github.io/nrc-demo"
 languageCode = "en-us"
 title = "NRC Playbook"
-publishDir = "docs"
+publishDir = "./docs"
 theme = "liva-hugo"
 
 summaryLength = "10"
