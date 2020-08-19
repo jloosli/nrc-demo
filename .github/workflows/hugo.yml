@@ -25,5 +25,5 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.BUILD_TOKEN }}
-          args: --gc --minify --cleanDestinationDir --destination=${{ github.workspace }}/docs/ --verbose=true --debug
+          args: --gc --minify --cleanDestinationDir --destination=./docs/ --verbose=true --debug
           branch: master
