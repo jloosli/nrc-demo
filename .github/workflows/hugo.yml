@@ -26,5 +26,5 @@ jobs:
         with:
           githubToken: ${{ secrets.BUILD_TOKEN }}
           siteDir: ${{ github.workspace }}/docs
-          args: --gc --minify --cleanDestinationDir --verbose --source=${{ github.workspace }}
+          args: --gc --minify --cleanDestinationDir --verbose --source=${{ github.workspace }} --config=${{ github.workspace }}
           branch: master
