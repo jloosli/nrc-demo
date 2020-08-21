@@ -41,13 +41,13 @@ We've provided 10 prompts in the deck, but here's a sample of what you'll find:
 
 ### Share your user manuals with each other (5 - 60 mins)
 
-{{% callout title="Timing" %}} 
+{{% callout title="Timing" %}}
 
 A good estimate for timing is the following formula:
 
-`(Number of Participants - 1) x 7 minutes`
+`(P - 1) x 7 minutes`
 
-So if you have 8 participants, it would be (8-1) x 7 = 49 minutes.
+Where P is the number of participants. So if you have 8 participants, it would be (8-1) x 7 = 49 minutes.
 
 {{% /callout %}}
 
