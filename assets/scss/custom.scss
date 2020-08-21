@@ -1,3 +1,5 @@
+@import '_variables';
+
 a.navbar-brand svg {
   height: 100%;
   width: 100%;
@@ -11,4 +13,14 @@ a.navbar-brand svg {
   padding: 1.0em;
   margin: 1.0em;
   max-width: 200px;
+  border-radius: 0.5em;
+
+  .callout-heading .span {
+    border-radius: 50%;
+    background: darken($primary-color, 30%);
+    color: white;
+    display: inline-block;
+    margin-right: 2em;
+  }
+
 }
