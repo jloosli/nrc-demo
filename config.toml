@@ -146,6 +146,10 @@ DefaultContentLanguage = "en"
 [languages]
   [languages.en]
     weight = 1
+    contentDir = "content/english"
+    languageName = "English"
   [languages.fr]
     title = "Playbook de NRC"
     weight = 2
+    contentDir = "content/french"
+    languageName = "Français"
