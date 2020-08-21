@@ -17,10 +17,13 @@ a.navbar-brand svg {
 
   .callout-heading .span {
     border-radius: 50%;
-    background: darken($primary-color, 30%);
+    background-color: darken($primary-color, 30%);
     color: white;
     display: inline-block;
-    margin-right: 2em;
+    margin-right: 0.5em;
+    width: 1.5em;
+    height: 1.5em;
+
   }
 
 }
