@@ -153,3 +153,8 @@ DefaultContentLanguage = "en"
     weight = 2
     contentDir = "content/french"
     languageName = "Français"
+  [languages.es]
+    title = "Libro de jugadas de NRC"
+    weight = 3
+    contentDir = "content/spanish"
+    languageName = "Español"
