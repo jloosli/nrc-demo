@@ -93,4 +93,4 @@ Incorporate these as quick get-to-know each other exercises in your standing mee
 
 ### Gamify It!
 
-Try a gamification version of this play. Collect and anonymize the team slides from one prompt and have the team try to guess whose slide is whose. [nrc-programme-policy-english.pdf](/uploads/nrc-programme-policy-english.pdf "nrc-programme-policy-english.pdf")
+Try a gamification version of this play. Collect and anonymize the team slides from one prompt and have the team try to guess whose slide is whose.

@@ -139,3 +139,13 @@ link = "#"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    weight = 1
+  [languages.fr]
+    title = "Playbook de NRC"
+    weight = 2
