@@ -11,7 +11,7 @@ prep_time = 45
 show_reading_time = true
 tags = ["Teams", "Cohesiveness"]
 time = 30
-title = "My User Manual"
+title = "Mi manual de usuario"
 you_should_involve = "Anyone in your integrated project team, including individual contributors and team leads."
 [next_steps]
 follow-ups = "Keep these archived in your team’s IP SharePoint space so future teammates can get up to speed quickly.\n\nNote in the IP Action Play when this Play was done and who was involved. "
