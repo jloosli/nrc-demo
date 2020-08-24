@@ -21,7 +21,7 @@ samples = "Here's what the \"communicating\" section of your user manual might l
 support = "Link to support e.g. IP working group, other teams who have completed this play and are happy to own it to coach others etc\n\nCould include links to case studies or time-lapse videos of teams doing the activity"
 
 +++
-# Running the play
+# Running the playbook
 
 Download the starter deck and review what questions you'd like to ask of yourself and of your teammates. Agree on which ones to focus on.
 
