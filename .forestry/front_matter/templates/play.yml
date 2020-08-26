@@ -92,6 +92,14 @@ fields:
     min: 
     max: 
     step: 15
+- name: materials
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Materials
+  description: Materials needed to run play
 - name: difficulty
   type: select
   default: []
@@ -107,14 +115,6 @@ fields:
       file: 
       path: 
   label: Difficulty
-- name: materials
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: Materials
-  description: Materials needed to run play
 - name: additional_resources
   type: textarea
   default: ''
