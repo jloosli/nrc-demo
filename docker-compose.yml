@@ -1,7 +1,7 @@
 version: '3.7'
 
 services:
-  hugo_server:
+  server:
     image: klakegg/hugo:ext
     command: server
     volumes:

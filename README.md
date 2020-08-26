@@ -3,10 +3,8 @@ Demo/playground for NRC playbook using Hugo
 
 ## Development
 
-Run `docker-compose up -d hugo_server`
+Run `docker-compose up server`
 
 ## Build
 
-Run `docker-compose up -d build`
-
-
+Run `docker-compose up build`
