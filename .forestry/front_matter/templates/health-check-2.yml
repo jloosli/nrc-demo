@@ -1,0 +1,21 @@
+---
+label: Health Check 2
+hide_body: true
+fields:
+- type: field_group_list
+  name: questions
+  label: questions
+  fields:
+  - type: text
+    name: group
+    label: group
+  - type: field_group_list
+    name: quests
+    label: quests
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: question
+      label: question
