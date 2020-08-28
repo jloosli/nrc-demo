@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: healthcheck.json
+  label: Heath Check
+  match: "**/*"
 - type: directory
   path: content/spanish
   label: Spanish
