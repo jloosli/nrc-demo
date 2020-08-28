@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: healthcheck.json
+  path: data/health_check.json
   label: Heath Check
 - type: directory
   path: content/spanish
