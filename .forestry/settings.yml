@@ -7,7 +7,6 @@ sections:
 - type: document
   path: healthcheck.json
   label: Heath Check
-  match: "**/*"
 - type: directory
   path: content/spanish
   label: Spanish
