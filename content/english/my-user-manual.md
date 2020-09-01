@@ -13,6 +13,7 @@ tags = ["Teams", "Cohesiveness"]
 time = 30
 title = "My User Manual"
 you_should_involve = "Anyone in your integrated project team, including individual contributors and team leads."
+type = "featured"
 [next_steps]
 follow-ups = "Keep these archived in your team’s IP SharePoint space so future teammates can get up to speed quickly.\n\nNote in the IP Action Play when this Play was done and who was involved. "
 part_of_these_game_plans = ["Game plan 1", "Game Plan 2"]
