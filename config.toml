@@ -78,7 +78,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/nrc_eng_logo_horizontal_cmyk_pos_left.svg"
+logo = "static/images/nrc_eng_logo_horizontal_cmyk_pos_left.svg"
 home = "Home"
 # Meta data
 description = "This is meta description"
