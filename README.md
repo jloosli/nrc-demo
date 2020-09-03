@@ -18,8 +18,6 @@ Run `docker-compose up build`
 
 ## Running Hugo Commands
 
-```shell script
-docker-compose run build {command to be run} 
-```
+Run `docker-compose run build {command to be run}` 
 
 e.g. `docker-compose run build new theme spiffy`
