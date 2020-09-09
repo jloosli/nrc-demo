@@ -1,4 +1,4 @@
-# NOT IN USE (see NorwegianRefugeeCenter)
+# NOT IN USE (see NorwegianRefugeeCouncil)
 # nrc-demo
 Demo/playground for NRC playbook using Hugo
 
